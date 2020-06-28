@@ -34,3 +34,11 @@ This is going to be a challenge excercise to perform independently and then comp
 18. Apply hr and then apply the styles for hr.
 19. Make sure that the HTML and CSS are commented and formatted.
 20. Save all work. Comment. Commit. And Compare all work. 
+
+## Additions
+1. After comparing we did find another way to give width to the body. We started with the width: 50%. Now we are using the max-width: 700px with the width: 80%. This means the browser will show the page at 700px until it no longer can and then it will do 80% of the 700px.
+
+2. As well we did apply the font-weight property to all the text to make the text that much bolder.
+
+3. Gave margin top and bottom 20px to the body to give some spacing around the border and the top of the web page. 
+

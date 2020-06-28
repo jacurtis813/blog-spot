@@ -2,8 +2,9 @@
 
 /* Body styles */
 body {
-    width: 50%;
-    margin: auto;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
     border: 20px solid #bdc3c7;
 }
 
@@ -11,12 +12,14 @@ body {
 /* Paragraph styles*/
 p {
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
 }
 
 
 /* h2 styles */
 h2 {
     font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
     color: #2c3e50;
     padding-left: 15px;
 }
