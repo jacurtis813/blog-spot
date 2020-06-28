@@ -30,3 +30,7 @@ This is going to be a challenge excercise to perform independently and then comp
 14. Use google dev-tools to help create the padding for the border-left in the first line paragraphs.
 15. Use/ embed the requested font into the document, using google fonts.
 16. Apply font changes and the color of those fonts.
+17. Research how to add the line in the middle of the page. Found <hr>. 
+18. Apply <hr> and then apply the styles for <hr>.
+19. Make sure that the HTML and CSS are commented and formatted.
+20. Save all work. Comment. Commit. And Compare all work. 

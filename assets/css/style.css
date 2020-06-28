@@ -18,6 +18,13 @@ p {
 h2 {
     font-family: 'Source Sans Pro', sans-serif;
     color: #2c3e50;
+    padding-left: 15px;
+}
+
+
+/* hr styles */
+hr {
+    width: 80%;
 }
 
 
@@ -26,7 +33,7 @@ h2 {
     text-transform: uppercase;
     color: #3498db;
     letter-spacing: 2px;
-
+    padding-left: 15px;
 }
 
 
@@ -34,6 +41,7 @@ h2 {
 div {
     text-align: left;
     padding-left: 15px;
+    padding-right: 15px;
     line-height: 1.5;
 }
 
