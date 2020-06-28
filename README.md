@@ -11,3 +11,12 @@ This is going to be a challenge excercise to perform independently and then comp
  6. The dates are all in capitals. Use css to make this change rather than html.
  7. Look for text being aligned, borders, and even proper indentation/ spacing in the page.
  8. Research <hr> styles and see how to apply the line between the articles.
+
+
+ ## Breakdown:
+1. Created the set up for the HTML to match the content of the challenge web page. 
+2. Created content filler with the 'bacon-ipsum'. 
+3. Began the mock-up web page. Set the dates in with <p> tag/ elements.
+4. Set the 'bacon ipsum' within a div container. Seperated the content into 3 <p> elements.
+5. Set the border, width and the margin for the body. 
+6. Created the single border-left for the first line paragraph per container.
