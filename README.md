@@ -10,7 +10,7 @@ This is going to be a challenge excercise to perform independently and then comp
  5. Carefully inspect the content to attempt to duplicate the page as closely as possible.
  6. The dates are all in capitals. Use css to make this change rather than html.
  7. Look for text being aligned, borders, and even proper indentation/ spacing in the page.
- 8. Research <hr> styles and see how to apply the line between the articles.
+ 8. Research hr styles and see how to apply the line between the articles.
 
 
  ## Breakdown:
