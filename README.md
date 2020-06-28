@@ -16,8 +16,8 @@ This is going to be a challenge excercise to perform independently and then comp
  ## Breakdown:
 1. Created the set up for the HTML to match the content of the challenge web page. 
 2. Created content filler with the 'bacon-ipsum'. 
-3. Began the mock-up web page. Set the dates in with <p> tag/ elements.
-4. Set the 'bacon ipsum' within a div container. Seperated the content into 3 <p> elements.
+3. Began the mock-up web page. Set the dates in with p tag/ elements.
+4. Set the 'bacon ipsum' within a div container. Seperated the content into 3 p elements.
 5. Set the border, width and the margin for the body. 
 6. Created the single border-left for the first line paragraph per container.
 7. Set the class for the dates per each blog date shown in mock-up. 
@@ -30,7 +30,7 @@ This is going to be a challenge excercise to perform independently and then comp
 14. Use google dev-tools to help create the padding for the border-left in the first line paragraphs.
 15. Use/ embed the requested font into the document, using google fonts.
 16. Apply font changes and the color of those fonts.
-17. Research how to add the line in the middle of the page. Found <hr>. 
-18. Apply <hr> and then apply the styles for <hr>.
+17. Research how to add the line in the middle of the page. Found hr. 
+18. Apply hr and then apply the styles for hr.
 19. Make sure that the HTML and CSS are commented and formatted.
 20. Save all work. Comment. Commit. And Compare all work. 
