@@ -14,6 +14,7 @@ This is going to be a challenge excercise to perform independently and then comp
 
 
  ## Breakdown:
+
 1. Created the set up for the HTML to match the content of the challenge web page. 
 2. Created content filler with the 'bacon-ipsum'. 
 3. Began the mock-up web page. Set the dates in with p tag/ elements.
@@ -36,9 +37,16 @@ This is going to be a challenge excercise to perform independently and then comp
 20. Save all work. Comment. Commit. And Compare all work. 
 
 ## Additions
+
 1. After comparing we did find another way to give width to the body. We started with the width: 50%. Now we are using the max-width: 700px with the width: 80%. This means the browser will show the page at 700px until it no longer can and then it will do 80% of the 700px.
 
 2. As well we did apply the font-weight property to all the text to make the text that much bolder.
 
 3. Gave margin top and bottom 20px to the body to give some spacing around the border and the top of the web page. 
+
+4. Walk through the differences of em and rem measurements. Using rem to make font-size style changes in the h2 elements.
+
+5. Watch all 3 walk-through videos on the solution for the challenge excercise.
+
+6. Research hr styles. How to style and what they do?
 
