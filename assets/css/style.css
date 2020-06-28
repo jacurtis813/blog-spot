@@ -8,10 +8,25 @@ body {
 }
 
 
+/* Paragraph styles*/
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/* h2 styles */
+h2 {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #2c3e50;
+}
+
+
 /* Date styles */
 .dates {
     text-transform: uppercase;
     color: #3498db;
+    letter-spacing: 2px;
+
 }
 
 
@@ -25,5 +40,7 @@ div {
 
 /* First line styles */
 .first-line {
-    border-left: 6px solid #bdc3c7;
+    padding-left: 10px;
+    border-left: 5px solid #bdc3c7;
+    
 }

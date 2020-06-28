@@ -24,3 +24,9 @@ This is going to be a challenge excercise to perform independently and then comp
 8. Created comments for the HTML. Clean up and format set.
 9. Created comments for the CSS. Clean up and format set-simplify.
 10. Set up the second section of the HTML to begin the next article. 
+11. Research (how to letter space follow up how to word space). Two seperate properties.
+12. Apply the property and the value set for the letter spacing in our dates.
+13. Apply the color for the dates along with the spacing.
+14. Use google dev-tools to help create the padding for the border-left in the first line paragraphs.
+15. Use/ embed the requested font into the document, using google fonts.
+16. Apply font changes and the color of those fonts.
