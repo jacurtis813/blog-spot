@@ -20,3 +20,7 @@ This is going to be a challenge excercise to perform independently and then comp
 4. Set the 'bacon ipsum' within a div container. Seperated the content into 3 <p> elements.
 5. Set the border, width and the margin for the body. 
 6. Created the single border-left for the first line paragraph per container.
+7. Set the class for the dates per each blog date shown in mock-up. 
+8. Created comments for the HTML. Clean up and format set.
+9. Created comments for the CSS. Clean up and format set-simplify.
+10. Set up the second section of the HTML to begin the next article. 

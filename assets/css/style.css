@@ -7,13 +7,23 @@ body {
     border: 20px solid #bdc3c7;
 }
 
+
+/* Date styles */
+.dates {
+    text-transform: uppercase;
+    color: #3498db;
+}
+
+
+/* Div container styles */
 div {
     text-align: left;
     padding-left: 15px;
     line-height: 1.5;
 }
 
+
+/* First line styles */
 .first-line {
     border-left: 6px solid #bdc3c7;
 }
-
