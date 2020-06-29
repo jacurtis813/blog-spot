@@ -35,6 +35,10 @@ This is going to be a challenge excercise to perform independently and then comp
 18. Apply hr and then apply the styles for hr.
 19. Make sure that the HTML and CSS are commented and formatted.
 20. Save all work. Comment. Commit. And Compare all work. 
+21. After repairing the pathways and configuring all systems. Back to course content.
+22. Begin with bootstrap, download the zipped file and extract the content, copy the content for the css.
+23. Set up a new html file to test the bootstrap css out. Copy and paste the content from the bootstrap.css file into our second css file to apply.
+24. Save all changes and then test that the css has worked properly with a few tags/ classes.
 
 ## Additions
 
@@ -49,4 +53,5 @@ This is going to be a challenge excercise to perform independently and then comp
 5. Watch all 3 walk-through videos on the solution for the challenge excercise.
 
 6. All paths should be connected at this time. All should be completed.
+
 
