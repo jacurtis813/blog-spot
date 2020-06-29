@@ -48,7 +48,5 @@ This is going to be a challenge excercise to perform independently and then comp
 
 5. Watch all 3 walk-through videos on the solution for the challenge excercise.
 
-6. Research hr styles. How to style and what they do?
-
-7. Commit and push completed.
+6. All paths should be connected at this time. All should be completed.
 
