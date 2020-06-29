@@ -50,5 +50,5 @@ This is going to be a challenge excercise to perform independently and then comp
 
 6. Research hr styles. How to style and what they do?
 
-7. Commit and push completed. more. Last attempt. 
+7. Commit and push completed.
 
