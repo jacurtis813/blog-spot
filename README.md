@@ -39,6 +39,8 @@ This is going to be a challenge excercise to perform independently and then comp
 22. Begin with bootstrap, download the zipped file and extract the content, copy the content for the css.
 23. Set up a new html file to test the bootstrap css out. Copy and paste the content from the bootstrap.css file into our second css file to apply.
 24. Save all changes and then test that the css has worked properly with a few tags/ classes.
+25. Use the bootstrap search section to look through areas for code to apply per css file.
+26. 
 
 ## Additions
 
